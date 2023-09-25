@@ -10,10 +10,6 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
     git clone https://github.com/brandonvout/novelwriter-themes.git
 
-    git clone https://gitlab.com/brandonvout/novelwriter-themes.git
-
-    git clone https://bvout@bitbucket.org/BrandonVout/novelwriter-themes.git
-
 ### Install manually
 
 Download using the [GitHub .zip download](https://github.com/brandonvout/novelwriter-themes/archive/main.zip) option and unzip them.
